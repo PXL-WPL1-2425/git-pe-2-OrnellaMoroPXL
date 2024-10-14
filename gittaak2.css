@@ -13,3 +13,25 @@
     width: 25%;
     height: auto;
 }
+.middle-section ul{
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.middle-section li{
+    flex: 1;
+    text-align: center;
+}
+.middle-section a{
+
+    font-size: 14px;
+    color: white;
+    display: block;
+    width: 100%;
+    padding: 16px 0;
+}
+.right-section{
+    text-align: center;
+}
