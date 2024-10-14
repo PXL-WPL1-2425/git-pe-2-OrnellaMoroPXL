@@ -31,7 +31,21 @@
     display: block;
     width: 100%;
     padding: 16px 0;
+    text-decoration: none;
+    font-family: sans-serif;
 }
 .right-section{
     text-align: center;
+}
+.right-section a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    border-color: red;
+    background-color: red;
+    border-radius: 15px;
+    padding: 2px 15px;
+    font-family: sans-serif;
+    font-weight: 550;
+
 }
